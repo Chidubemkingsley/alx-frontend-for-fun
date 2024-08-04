@@ -1,6 +1,8 @@
 ##  Accessibility
 HTML CSS Front-end
 
+![image](boromir.png)
+
 ## Concepts
 
     For this project, we expect you to look at this concept:
